@@ -22,4 +22,4 @@ gcc main.c -o StarWarsGame
 ## Copyright
 
 © 2026 Nikos D.  
-Απαγορεύεται η αναπαραγωγή ή χρήση χωρίς άδεια.
+Reproduction or use without permission is prohibited.
