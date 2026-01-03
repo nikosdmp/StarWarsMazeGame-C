@@ -21,5 +21,5 @@ gcc main.c -o StarWarsGame
 
 ## Copyright
 
-© 2026 Nikos D.  
+© 2026 Nikos Dimopoulos.  
 Reproduction or use without permission is prohibited.
